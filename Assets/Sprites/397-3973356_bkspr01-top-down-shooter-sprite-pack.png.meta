@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: b18323342dbc89641b6b47b8e0960ada
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5591890950560748818
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_0
+  - first:
+      213: 8704122953284029223
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_1
+  - first:
+      213: -5764223474301196314
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_2
+  - first:
+      213: -1296439553997576565
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_3
+  - first:
+      213: 1339317255701156557
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_4
+  - first:
+      213: -2102032327003891716
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_5
+  - first:
+      213: -3835297192253348702
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_6
+  - first:
+      213: 8480836394009096919
+    second: 397-3973356_bkspr01-top-down-shooter-sprite-pack_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 413
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21515e241336a9d40800000000000000
+      internalID: 5591890950560748818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 375
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b81d7a5b14bc870800000000000000
+      internalID: 8704122953284029223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72f405a4d5100b0800000000000000
+      internalID: -5764223474301196314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 283
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86653f281f120ee0800000000000000
+      internalID: -1296439553997576565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc25e93b2f5369210800000000000000
+      internalID: 1339317255701156557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 134
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf79b825cb414d2e0800000000000000
+      internalID: -2102032327003891716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4afaf168946cac0800000000000000
+      internalID: -3835297192253348702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 397-3973356_bkspr01-top-down-shooter-sprite-pack_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2fd1754cbf1b570800000000000000
+      internalID: 8480836394009096919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_3: -1296439553997576565
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_1: 8704122953284029223
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_0: 5591890950560748818
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_4: 1339317255701156557
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_5: -2102032327003891716
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_6: -3835297192253348702
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_7: 8480836394009096919
+      397-3973356_bkspr01-top-down-shooter-sprite-pack_2: -5764223474301196314
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
